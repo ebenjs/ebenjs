@@ -5,7 +5,7 @@
 -->
 
 # 💫 About Me:
-Aspiring Software Architect. JAVA developer | JavaScript (NodeJS & Express | Angular | VueJS | ReactJS) | AWS, Microsoft Azure. Currently working on gpt-shell. A way to use Chat-GPT in the terminal.
+Aspiring Software Architect. Open-Source enthusiast. Currently working on gpt-shell. A way to use Chat-GPT in the terminal.
 
 
 ## 🌐 Socials:
